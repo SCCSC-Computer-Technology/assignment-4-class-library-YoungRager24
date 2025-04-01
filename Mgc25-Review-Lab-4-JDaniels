@@ -1,0 +1,4 @@
+Looking at this solution I see the library itself in Visual Studio is set up correctly. When looking at the code the class is named and set up with appropriate properties, 
+however there are no separate constructors present for the class. I would like to see a constructor present that can accept fields from the calling code, 
+as well as a default constructor if there are issues with the calling code so the program doesn’t crash. Also, I would like to see some comments describing the major 
+parts of the class and clarifying the lab name, author name, etc. to help keep up with whose code it is. 
